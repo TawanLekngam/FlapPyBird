@@ -1,6 +1,5 @@
-import os
+import sys, os
 import random
-import sys
 
 import pygame
 
